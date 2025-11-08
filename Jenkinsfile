@@ -1,4 +1,4 @@
-pipline{
+pipeline{
 	// need to add agents
 	agent any
 
