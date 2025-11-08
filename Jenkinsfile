@@ -14,7 +14,7 @@ pipeline{
 
 		{
 			steps{
-				git 'https://github.com/github-simplilearn-net/MavenBuild.git'
+				git 'https://github.com/khadarvallik98-cloud/Maven-Build.git'
 			}
 		}
 		stage('Compile code')
